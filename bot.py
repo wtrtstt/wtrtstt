@@ -4,7 +4,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot('7247435233:AAF1D3oNxbIb7qWsFWQYUWiaAbtJuXC6Mzc')
 MANAGER_CHAT_ID = 7192518179
 
 user_states = {}
